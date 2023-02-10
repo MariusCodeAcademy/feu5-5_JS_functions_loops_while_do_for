@@ -33,6 +33,7 @@
 
    2. atspausdinti galutini rezultata
    3. sukurti funkcija kuri grazina rezultata
+      5.4 jei from yra didesnis uz to, tai pranesti apie tai su konsole ir nevygdyti opercijos
 
 6. sukuriam kintamji aukstis = 5. Panaudojus kintamji aukstis nupiesti eglute su tiek liniju kiek yra aukstis.
 
