@@ -27,13 +27,17 @@ function getMeRandNumberFrom1To(maxRandValue = 10) {
 console.log('rand1 ===', rand1);
 console.log('randOneLine ===', randOneLine);
 
-for (let i = 0; i < 15; i++) {
-  let ciklasNr = i;
-  let randOneLine = getMeRandNumberFrom1To();
+function printRandNumber(kiekSkaiciu) {
+  for (let i = 0; i < kiekSkaiciu; i++) {
+    let ciklasNr = i + 1;
+    let randOneLine = getMeRandNumberFrom1To();
 
-  console.log(`Ciklo nr ${ciklasNr} reiksme === ${randOneLine}`);
+    console.log(`Ciklo nr ${ciklasNr} reiksme === ${randOneLine}`);
+  }
 }
-
+printRandNumber(10);
+console.log('----');
+printRandNumber(5);
 // parasyti funkcija kuri generuoja random skaicius, argumente nurodyta sk kartu
 
 // printRandNumber(10) === 10 random skaiciu
