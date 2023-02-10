@@ -33,3 +33,8 @@ for (let i = 0; i < 15; i++) {
 
   console.log(`Ciklo nr ${ciklasNr} reiksme === ${randOneLine}`);
 }
+
+// parasyti funkcija kuri generuoja random skaicius, argumente nurodyta sk kartu
+
+// printRandNumber(10) === 10 random skaiciu
+// printRandNumber(5) === 5 random skaiciu
