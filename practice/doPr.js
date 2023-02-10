@@ -8,9 +8,14 @@ console.log('doPr.js file was loaded');
 // jei ne 12 tai tesiam
 // debugger;
 let oneRandom;
+let skaitliukas = 0;
 do {
   // mesk kauliukus
   oneRandom = getMeRandNumberFrom1To(12);
-  console.log('oneRandom ===', oneRandom);
+  // console.log('oneRandom ===', oneRandom);
+
   // suskaiciuoti kiek kartu buvo mesta kauliukai?
+  skaitliukas++;
 } while (oneRandom !== 12);
+
+console.log('skaitliukas ===', skaitliukas);
