@@ -1,6 +1,6 @@
 # uzd
 
-## simble uzduotys
+## simple uzduotys
 
 1. parasyti funkcija kuri sugeneruoja ir atspausdina consoleje skaicius nuo 22 iki 70.
 2. padaryti kad funkcija generuotu skaicius is argumentu "from" ir 'to'
