@@ -6,8 +6,8 @@ console.log('continueBreak.js file was loaded');
 for (let i = 0; i < 15; i++) {
   if (i === 7) {
     // praleidziam
-    // continue;
-    break;
+    continue;
+    // break;
   }
   // console.log('i ===', i);
 }
