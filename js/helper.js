@@ -9,3 +9,8 @@ function printToHtml(value, destination = 'app', tag = 'p') {
     console.warn('jei nera htmle sukurk div su id app');
   }
 }
+
+function getMeRandNumberFrom1To(maxRandValue = 10) {
+  let rand11 = Math.floor(Math.random() * maxRandValue) + 1;
+  return rand11;
+}
