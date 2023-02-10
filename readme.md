@@ -7,7 +7,9 @@
 3. parasyti funkcija kuri nespausdina argumentu nurodyto skaiciaus
    printAllValuesBut(8)
 4. sudeti visus skaicius nuo 0 iki 10, atspusdinti rezultata
+
    4.1 parasyti funkcija kuri grazina rezultata
+
    4.2 paduoti argumentu kiek skaiciu nuo nulio sudeti
 
 5. Sudeti skaicius nuo 10 iki 20.
