@@ -1,5 +1,13 @@
 # uzd
 
+## simble uzduotys
+
+1. parasyti funkcija kuri sugeneruoja ir atspausdina consoleje skaicius nuo 22 iki 70.
+2. padaryti kad funkcija generuotu skaicius is argumentu "from" ir 'to'
+   pvz generateNums(10, 20) sugeeruotu nuo 10 iki 20
+3. parasyti funkcija kuri sugeneruoja skaicius lyginius skaicius nuo 45 iki 90
+4. parasyti funkcija kuri generuja skaicius nuo 150 iki 90
+
 ## for ciklas
 
 1. atspausdinti skaicius nuo 0 iki 15. Visus isskyrus 7
