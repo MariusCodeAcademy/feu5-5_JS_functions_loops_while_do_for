@@ -22,18 +22,19 @@
 
 5. Sudeti skaicius nuo 10 iki 20.
 
-   1. sudedant atspausdinti kievieno zingsnio informacija
+   5.1. sudedant atspausdinti kievieno zingsnio informacija
 
-      pvz "Ciklo numeris 1, prie 0 pridedu 10 ir gaunu 10"
+   pvz "Ciklo numeris 1, prie 0 pridedu 10 ir gaunu 10"
 
-      pvz "Ciklo numeris 2, prie 10 pridedu 11 ir gaunu 21"
+   pvz "Ciklo numeris 2, prie 10 pridedu 11 ir gaunu 21"
 
-      pvz "Ciklo numeris 3, prie 21 pridedu 12 ir gaunu 33"
-      ....
+   pvz "Ciklo numeris 3, prie 21 pridedu 12 ir gaunu 33"
+   ....
 
-   2. atspausdinti galutini rezultata
-   3. sukurti funkcija kuri grazina rezultata
-      5.4 jei from yra didesnis uz to, tai pranesti apie tai su konsole ir nevygdyti opercijos
+   5.2. atspausdinti galutini rezultata
+   5.3. sukurti funkcija kuri grazina rezultata
+
+   5.4 jei from yra didesnis uz to, tai pranesti apie tai su konsole ir nevygdyti opercijos
 
 6. sukuriam kintamji aukstis = 5. Panaudojus kintamji aukstis nupiesti eglute su tiek liniju kiek yra aukstis.
 
